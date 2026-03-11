@@ -1,0 +1,5 @@
+{
+  "name": "Capstone Data Pipeline",
+  "description": "A complete implementation of the ML Foundations Capstone Project, featuring data cleaning, feature engineering, and exploratory data analysis.",
+  "requestFramePermissions": []
+}
